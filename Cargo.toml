@@ -1,13 +1,13 @@
 [package]
-name = "pipeless"
+name = "factum"
 version = "0.0.1"
 authors = ["Bevan Hunt <bevan@bevanhunt.com>"]
 edition = "2018"
 license = "MIT"
-keywords = ["pipeless", "api"]
-categories = ["web-programming", "api-bindings"]
-description = "Pipeless API"
-repository = "https://github.com/apibillme/pipeless"
+keywords = ["factum", "triple-data", "database", "fact-database", "facts"]
+categories = ["web-programming::http-server", "database-implementations", "authentication"]
+description = "Factum - Fact-based Database Web Service"
+repository = "https://github.com/apibillme/factum"
 readme = "README.md"
 
 [dependencies]
