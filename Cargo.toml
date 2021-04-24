@@ -1,13 +1,13 @@
 [package]
-name = "factum"
+name = "nosql"
 version = "0.0.1"
 authors = ["Bevan Hunt <bevan@bevanhunt.com>"]
 edition = "2018"
 license = "MIT"
-keywords = ["factum", "triple-data", "database", "fact-database", "facts"]
+keywords = ["nosql", "nosql-relational", "database", "triple-data", "facts"]
 categories = ["web-programming::http-server", "database-implementations", "authentication"]
-description = "Factum - Fact-based Database Web Service"
-repository = "https://github.com/apibillme/factum"
+description = "NoSQL - NoSQL Relational Database"
+repository = "https://github.com/apibillme/nosql"
 readme = "README.md"
 
 [dependencies]

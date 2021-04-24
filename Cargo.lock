@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "factum"
+name = "nosql"
 version = "0.0.1"
